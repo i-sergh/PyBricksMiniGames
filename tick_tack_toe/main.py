@@ -15,11 +15,13 @@ ev3 = EV3Brick()
 
 #initialization field
 field = [
-    ["a1", "a2", "a3"],
-    ["b1", "b2", "b3"],
-    ["c1", "c2", "c3"]
+    ["a1o", "a2", "a3x"],
+    ["b1", "b2o", "b3"],
+    ["c1x", "c2", "c3"]
 ]
 
 while True:
 
-    
+    field = 
+
+    draw = Draw("field")
